@@ -34,3 +34,7 @@ Creando GH pages
 4.- Cambiar la rama "master" por "gh-pages"
 5.- Click en Update, aceptar mensaje
 6.- Regresar a Options, bajar a GitHub Pages y abrir el enlace que se muestra
+
+Cambiando color / agregando commits
+1.- abrir el archivo de css, cambiar color de body
+2.- Escribir commit para guiar el cambio
