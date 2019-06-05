@@ -1,0 +1,35 @@
+body {
+    background: rgb(115, 230, 44);
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+  }
+  p {
+  background : rgb(30, 99, 160);
+  font : 15pt helvetica;
+  color : #beeffa;
+  margin : 20px 0px 20px 0px;
+  text-align: center;
+  }
+
+  h2 {
+    background : black;
+    font  : 300m helvetica;
+    color : rgb(78, 148, 209);
+    text-align: center;
+
+  }
+
+  h3 {
+    background: black;
+    font: 15px helvetica;
+    color: burlywood;
+    text-align: center;
+
+  }
+
+  form {
+    font: 12px helvetica;
+    text-align: center;
+  }
+  #bienvenida {
+    backgroundcolor: black;
